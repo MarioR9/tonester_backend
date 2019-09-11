@@ -1,24 +1,8 @@
-# README
+#Tonester
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tonesters allows users to save albums using Spotify’s api.
++ Developed a Rails API backend.
++ Implemented beautiful user interface employing React with Semantic-React for styling.
++ Utilized Spotify API’s to pull and parse data on artists albums based on user favorites songs.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#Tonester
